@@ -1,1 +1,3 @@
 This is my text file 
+*********
+Second commit edit

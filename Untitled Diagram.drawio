@@ -1,26 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T21:45:57.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gm3nkVy8d63vVUkeA4tf" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T00:21:56.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="26TbUHD1qtNCRchhqAUi" version="24.6.3" type="github">
   <diagram name="Page-1" id="i7ZxxaO9vWtbetZTcvCp">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-1" value="Performance of SMEs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="2tQ-3NKmMj03zkAYcns6-1" value="Performance of SMEs&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 7pt; text-indent: -0.25in;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;text-align: justify; text-indent: -0.25in; line-height: 150%;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 130%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;Sales Growth (DV1)&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;X64HokHst5-9Uktcb3Vd&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;Customer Acquisition (DV2)&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;X64HokHst5-9Uktcb3Vd&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;Brand Awareness (DV3)&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font face=&quot;X64HokHst5-9Uktcb3Vd&quot;&gt;Customer Retention (DV4)&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font face=&quot;X64HokHst5-9Uktcb3Vd&quot;&gt;Market Share (DV5)&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="180" width="150" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-2" value="Dependent variable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2tQ-3NKmMj03zkAYcns6-2" value="Dependent variable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2tQ-3NKmMj03zkAYcns6-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-4" value="Mediating variable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2tQ-3NKmMj03zkAYcns6-4" value="Mediating variable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-5" value="Digital Marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="2tQ-3NKmMj03zkAYcns6-5" value="Digital Marketing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-6" value="Independent variables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2tQ-3NKmMj03zkAYcns6-6" value="Independent variables" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-1" value="Online presence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-10" value="Use of digital marketing tools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="227" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-11" value="Digital marketing skills and knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-12" value="Customer engagement and interaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-13" value="Budget allocation for digital marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-14" value="Online presence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T00:21:56.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="26TbUHD1qtNCRchhqAUi" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T22:15:40.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0YYWTyW3WlIJ8Lg-Urbj" version="24.6.3" type="github">
   <diagram name="Page-1" id="i7ZxxaO9vWtbetZTcvCp">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,8 @@
         <mxCell id="2tQ-3NKmMj03zkAYcns6-2" value="Dependent variable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2tQ-3NKmMj03zkAYcns6-4" value="Mediating variable" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="130" width="120" height="30" as="geometry" />
+        <mxCell id="2tQ-3NKmMj03zkAYcns6-3" value="Control variables" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2tQ-3NKmMj03zkAYcns6-5" value="Digital Marketing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="180" width="120" height="30" as="geometry" />
@@ -37,8 +34,17 @@
         <mxCell id="drchkXUFCP3Y5GjsyxBY-13" value="Budget allocation for digital marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="430" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="drchkXUFCP3Y5GjsyxBY-14" value="Online presence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-14" value="Firm Size" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-15" value="Control variables" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-16" value="Industry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="drchkXUFCP3Y5GjsyxBY-17" value="Firm Size" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
